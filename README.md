@@ -38,5 +38,8 @@ A simple and elegant Weather App built using *HTML, **CSS, and **JavaScript*.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/SayanDey322/Weather-App.git
    cd weather-app
+2. Open weatherapp.html in your browser.
+3. Enter a city name and hit the search icon.  
+   
